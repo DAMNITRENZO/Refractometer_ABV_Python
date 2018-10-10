@@ -2,6 +2,7 @@
 #Version 1.04.2
 #10-10-2018
 #Created By: Jonathan Braley
+#Wort Correction Formula: http://seanterrill.com/2011/04/07/refractometer-fg-results/
 
 from decimal import Decimal #decimal function used with round to manage decimal places
 import time #time function used to pause calculations in command prompt
